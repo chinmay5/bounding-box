@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa503e91-a449-406a-b63b-f126b2389391" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Images/006/00002.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00023.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00041.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00059.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00086.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00125.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00140.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00160.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00172.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00175.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00194.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00224.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00248.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00257.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Images/006/00260.ppm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Labels/006/00002.txt" afterPath="$PROJECT_DIR$/Labels/006/00002.txt" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00001.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00050.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00096.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00173.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00174.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00217.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00259.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Labels/006/00001.txt" afterPath="$PROJECT_DIR$/Labels/006/00001.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +23,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="281" column="27" lean-forward="false" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+            <state relative-caret-position="-540">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#322#353#0" expanded="true" />
               </folding>
@@ -169,8 +161,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="281" column="27" lean-forward="false" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+        <state relative-caret-position="-540">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#322#353#0" expanded="true" />
           </folding>
