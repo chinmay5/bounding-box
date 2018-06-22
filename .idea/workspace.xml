@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa503e91-a449-406a-b63b-f126b2389391" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Labels/001/test3.txt" afterPath="$PROJECT_DIR$/Labels/001/test3.txt" />
-      <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00002.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00023.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00041.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00059.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00086.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00125.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00140.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00160.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00172.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00175.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00194.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00224.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00248.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00257.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Images/006/00260.ppm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Labels/006/00002.txt" afterPath="$PROJECT_DIR$/Labels/006/00002.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="521">
-              <caret line="281" column="27" lean-forward="true" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+              <caret line="281" column="27" lean-forward="false" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
               <folding>
                 <element signature="e#322#353#0" expanded="true" />
               </folding>
@@ -156,7 +170,7 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
-          <caret line="281" column="27" lean-forward="true" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+          <caret line="281" column="27" lean-forward="false" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
           <folding>
             <element signature="e#322#353#0" expanded="true" />
           </folding>
